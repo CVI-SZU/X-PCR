@@ -89,6 +89,10 @@ The cross-modality reasoning task evaluates three key abilities:
 - **Diagnostic Integration**: integrating multi-modal evidence for disease diagnosis.
 - **Modality Selection**: selecting the most informative next imaging modality under diagnostic uncertainty.
 
+<p align="center">
+  <img src="assets/corss.png" width="90%">
+</p>
+
 ## 📊 Dataset Statistics
 
 X-PCR contains:
