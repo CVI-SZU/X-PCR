@@ -90,7 +90,7 @@ The cross-modality reasoning task evaluates three key abilities:
 - **Modality Selection**: selecting the most informative next imaging modality under diagnostic uncertainty.
 
 <p align="center">
-  <img src="assets/corss.png" width="90%">
+  <img src="assets/cross.png" width="90%">
 </p>
 
 ## 📊 Dataset Statistics
