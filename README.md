@@ -25,8 +25,9 @@ X-PCR contains **26,415 ophthalmic images** and **177,868 expert-verified VQA pa
 
 ## 🔥 News
 
-- **[2026-5-28]** X-PCR dataset is released on Hugging Face.
 - **[2026-5-28]** X-PCR paper is released.
+- **[2026-5-28]** X-PCR dataset is released on Hugging Face.
+- **[2026-xx-xx]** Evaluation code will be released soon.
 
 ## 📌 Highlights
 
