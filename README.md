@@ -25,10 +25,8 @@ X-PCR contains **26,415 ophthalmic images** and **177,868 expert-verified VQA pa
 
 ## 🔥 News
 
-- **[2026-xx-xx]** X-PCR dataset is released on Hugging Face.
-- **[2026-xx-xx]** X-PCR paper is released.
-- **[2026-xx-xx]** Evaluation code will be released soon.
-- **[2026-xx-xx]** Benchmark leaderboard will be updated soon.
+- **[2026-5-28]** X-PCR dataset is released on Hugging Face.
+- **[2026-5-28]** X-PCR paper is released.
 
 ## 📌 Highlights
 
@@ -283,16 +281,6 @@ This work was supported by the National Natural Science Foundation of China, Nin
 
 We thank all ophthalmologists and clinical experts who contributed to the annotation, validation, and evaluation of X-PCR.
 
-## 📬 Contact
-
-For questions or suggestions, please contact:
-
-```text
-jianfeng.ren@nottingham.edu.cn
-llshen@szu.edu.cn
-```
-
-or open an issue in this repository.
 
 ## 📄 License
 
