@@ -3,9 +3,7 @@
 <div align="center">
 
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/Fantasy666/X-PCR)
-[![Paper](https://img.shields.io/badge/Paper-CVPR%202026-red)]()
-[![Code](https://img.shields.io/badge/Code-Coming%20Soon-blue)]()
-[![License](https://img.shields.io/badge/License-Research%20Only-lightgrey)]()
+[![Paper](https://arxiv.org/abs/2604.20350)]()
 
 </div>
 
